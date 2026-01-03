@@ -506,7 +506,7 @@ Ideas welcome:
 MIT License
 
 ```
-Copyright (c) 2024 Sidheshwar Yengudle
+Copyright (c) 2026 Sidheshwar Yengudle
 ```
 
 ---
@@ -538,7 +538,7 @@ Copyright (c) 2024 Sidheshwar Yengudle
   
   <br><br>
   
-  Made with ❤️ and ☕ by Sidheshwar Yengudle © 2024
+  Made with ❤️ and ☕ by Sidheshwar Yengudle © 2026
   
   <br><br>
   
